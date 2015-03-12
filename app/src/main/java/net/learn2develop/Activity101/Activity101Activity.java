@@ -1,6 +1,6 @@
 package net.learn2develop.Activity101;
 
-///////XXXXXXXXXXXXXX
+///////ZZZZZZZZZZZZZZZZZZ
 
 import android.app.Activity;
 import android.os.Bundle;
